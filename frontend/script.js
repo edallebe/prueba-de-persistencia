@@ -1,5 +1,5 @@
 // Base URL for API requests
-const API_URL = '/.netlify/functions/users';
+const API_URL = '/.netlify/functions/getUser';
 
 // DOM Elements
 document.addEventListener('DOMContentLoaded', () => {
